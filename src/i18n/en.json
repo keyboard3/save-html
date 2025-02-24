@@ -1,0 +1,17 @@
+{
+    "setting": "Settings",
+    "lngSetting": "Language Settings",
+    "enable": "Enable",
+    "lng": {
+        "en": "English",
+        "zh": "Chinese",
+        "zh-TW": "Traditional Chinese"
+    },
+    "popup": {
+        "title": "Framework Basic Call Demo",
+        "backgroundHello": "Make background.js say hello world",
+        "backgroundInvokeContent": "Make background.js invoke content.js to say hello world",
+        "contentHello": "Make content.js say hello world",
+        "contentInvokeDocument": "Make content.js invoke document-injected js to say hello world"
+    }
+}
